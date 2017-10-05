@@ -11,4 +11,4 @@ function g_recaptcha_resize() {
 }
 
 g_recaptcha_resize();
-window.addEventListener("resize", g_recaptcha_resize);
+window.addEventListener('resize', g_recaptcha_resize);
